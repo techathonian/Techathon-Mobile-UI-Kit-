@@ -1,5 +1,5 @@
 # Techathon-Mobile-UI-Kit-
-Techathon UI Kit helps you to enhance UI/UX designers' consistency.
+Open source Techathon UI Kit helps you to enhance UI/UX designers' consistency.
 
 # How to Contribute
 To contribute edit this readme and add your figma email in the list of contributors then scroll down and click Commit Changes.
