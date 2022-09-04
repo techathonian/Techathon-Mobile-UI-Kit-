@@ -6,3 +6,6 @@ To contribute edit this readme and add your figma email in the list of contribut
 Wait for this project maintainer to invite you to start contributing
 
 - lamodots@gmail.com
+
+Figma Link (You can only view) 
+https://www.figma.com/team_invite/redeem/6CvhngDPU8aLzB8jwBKta5
